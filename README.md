@@ -1,3 +1,5 @@
+My solutions for some ACM-style code puzzles.
+
 ### W1:
 - A: CodeForces 723A, The New Year: Meeting Friends
 - B: CodeForces 731A, Night at the Museum
